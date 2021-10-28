@@ -2,7 +2,9 @@ import java.io.*;
 
 public class wrappingPaper {
 	public int totalPaper(String dimensions) {
-
+		int total = 0;
+		int xCount = 0;
+		return total;
 	}
 
 	public static void main(String[] args) {
